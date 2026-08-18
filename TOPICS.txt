@@ -1,0 +1,14 @@
+GitHub topics to set on this repo (Settings -> About -> Topics).
+These are how awesome-lists, MCP directories and topic scrapers find a repo,
+which is the entire distribution mechanism this artifact exists for.
+
+claude-skill
+claude
+anthropic
+mcp
+model-context-protocol
+meta-ads
+facebook-ads
+advertising
+marketing-automation
+ecommerce
